@@ -1,0 +1,23 @@
+{
+           "ForceUpdateGame": true,
+
+           "LatestGameVersion": "1.2.0",
+
+           "InternalGameVersion": 194,
+
+           "InternalResourceVersion": 194,
+
+           "UpdatePrefixUri": "http://static.faanlo.com/StreamingAssets/Full/1_2_0_194/Android/",
+
+           "UpdateApplicationUri": "http://static.faanlo.com/StreamingAssets/Full/1_2_0_194/Android/GameFrameworkVersion.d04aed5a.dat",
+
+           "VersionListLength": 203350,
+
+           "VersionListHashCode": -800395942,
+
+           "VersionListCompressedLength": 48589,
+
+           "VersionListCompressedHashCode": -1800094488,
+
+           "END_OF_JSON": ""
+}
